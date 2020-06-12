@@ -2,7 +2,7 @@
 
 int main () {
    char yourname[1];
-   int yourage[1];
+   int yourage[1];                   // edited file code     
 
     printf("Whats your name?\t");
     scanf("%1[^\n]s", yourname);
